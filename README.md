@@ -1,5 +1,5 @@
 # rush-issue-add-project
-Example Microsoft Rush project that exhibits an issue while adding a new project.
+Example Microsoft Rush project that exhibits an issue while adding a new project. This is a repro case for issue https://github.com/microsoft/web-build-tools/issues/1418.
 
 # Repro steps
 1. Clone repo
