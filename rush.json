@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/rush.schema.json",
+  "rushVersion": "5.10.3",
+  "pnpmVersion": "3.6.0",
+  "nodeSupportedVersionRange": ">=10.13.0 <11.0.0",
+  "projects": [
+    /* Uncomment the following lines to repro the bug */
+    /*
+      {
+        "packageName": "project-b",
+        "projectFolder": "packages/project-b"
+      },
+      */
+    {
+      "packageName": "project-a",
+      "projectFolder": "packages/project-a"
+    }
+  ]
+}
